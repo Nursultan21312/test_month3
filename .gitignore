@@ -1,4 +1,5 @@
 .bin 
 .venv
-venv__pycashe__/
+__pycashe__/
 venv/
+.gitignore/
